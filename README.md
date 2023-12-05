@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm ANSHUL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/b6a43f20f9fa31e8f42f3a4334a6351fc90801332bd2e772f76282b8e6729253/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63642f35392f64362f63643539643632366463383633393766653435303830653665396337303237642e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustystuds087&label=Profile%20views&color=0e75b6&style=flat" alt="gustystuds087" /> </p>
 
