@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Nodejs and DSA**
 
-- 👨‍💻You can check my portfolio here -> [anshul-portfolio087.netlify.app](anshul-portfolio087.netlify.app)
+- 👨‍💻You can check my portfolio here -> [anshulportfolio087.netlify.app](anshul-portfolio087.netlify.app)
 
 - 💬 Ask me about **MERN**
 
