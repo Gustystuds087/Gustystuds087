@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **KITPLACE**
 
-- 🌱 I’m currently learning **Nodejs and LEETCODE questions**
+- 🌱 I’m currently learning **Nodejs and DSA**
 
 - 👨‍💻You can check my portfolio here -> [anshul-portfolio087.netlify.app](anshul-portfolio087.netlify.app)
 
