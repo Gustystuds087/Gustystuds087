@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustystuds087&label=Profile%20views&color=0e75b6&style=flat" alt="gustystuds087" /> </p>
 
-- 🔭 I’m currently working on **KITPLACE and LEETCODE questions**
+- 🔭 I’m currently working on **KITPLACE**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Nodejs and LEETCODE questions**
 
 - 👨‍💻You can check my portfolio here -> [anshul-portfolio087.netlify.app](anshul-portfolio087.netlify.app)
 
