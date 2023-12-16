@@ -1,7 +1,7 @@
 ![logo](https://github.com/Gustystuds087/Gustystuds087/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm ANSHUL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt ="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Fec4a68367aa02e4a7437dc2cd3b619a7ec50be09f6152f182f4123b6a4f012d5%2F68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966&tbnid=2JKeF76tTWe0TM&vet=10CA4QxiAoBWoXChMImJb4l66UgwMVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fshuseelmaharjan&docid=-qc-YiOR-FEeBM&w=498&h=312&itg=1&q=coding%20gif&ved=0CA4QxiAoBWoXChMImJb4l66UgwMVAAAAAB0AAAAAEAc">
+<img align="right" alt ="coding" width="400" src="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustystuds087&label=Profile%20views&color=0e75b6&style=flat" alt="gustystuds087" /> </p>
 
 - 🔭 I’m currently working on [KITPLACE](https://github.com/Gustystuds087/KITPLACE)
