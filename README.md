@@ -1,16 +1,13 @@
-![logo](https://github.com/Gustystuds087/Gustystuds087/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm ANSHUL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/b6a43f20f9fa31e8f42f3a4334a6351fc90801332bd2e772f76282b8e6729253/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63642f35392f64362f63643539643632366463383633393766653435303830653665396337303237642e676966">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustystuds087&label=Profile%20views&color=0e75b6&style=flat" alt="gustystuds087" /> </p>
 
-- 🔭 I’m currently working on **KITPLACE**
+- 🔭 I’m currently working on [KITPLACE](https://github.com/Gustystuds087/KITPLACE)
 
 - 🌱 I’m currently learning **Nodejs and DSA**
 
-- 👨‍💻You can check my portfolio here ->(anshulportfolio087.netlify.app)
+- 👨‍💻You can check my portfolio here -> [anshulportfolio087.netlify.app](anshulportfolio087.netlify.app)
 
 - 💬 Ask me about **MERN**
 
@@ -22,6 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sanshul087" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanshul087" height="30" width="40" /></a>
 <a href="https://instagram.com/behold_the_beholder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="behold_the_beholder" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sanshul087" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanshul087" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
